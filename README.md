@@ -1,8 +1,11 @@
 #  Credit Card Data — Exploratory Data Analysis (EDA)
 
 > A complete **Python-based EDA project** on PSPD Bank's credit card data covering customer acquisition, transactions, and repayments across 50+ countries.
+ 
+ ![Alt text](https://www.hdatasystems.com/assets/case-study/credit-card-behavior-analysis/credi-card-an.png)
 
----
+
+--- 
 
 ##  Project Overview
 
